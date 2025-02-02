@@ -1,5 +1,7 @@
 # Lorenz Attractor
 
+![DLA](lorenz.png)
+
 This project implements a mathematical model known as the Lorenz system, which is a set of three coupled, first-order, nonlinear differential equations originally developed to model atmospheric convection.
 
 Overview
