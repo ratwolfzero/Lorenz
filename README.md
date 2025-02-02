@@ -16,7 +16,7 @@ $$
 \[
 \frac{dz}{dt} = x y - \beta z
 \]
-§§
+$$
 
 Where:
 
