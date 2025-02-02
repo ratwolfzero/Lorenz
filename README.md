@@ -7,17 +7,15 @@ Overview
 The Lorenz system is famous for its chaotic solutions, which are highly sensitive to initial conditions. The system's equations are as follows:
 
 $$
-\[
 \frac{dx}{dt} = \sigma (y - x)
-\]
+$$
 
-\[
+$$
 \frac{dy}{dt} = x (\rho - z) - y
-\]
+$$
 
-\[
+$$
 \frac{dz}{dt} = x y - \beta z
-\]
 $$
 
 Where:
