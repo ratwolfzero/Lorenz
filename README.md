@@ -8,8 +8,8 @@ The Lorenz system is famous for its chaotic solutions, which are highly sensitiv
 
 $$
 \begin{aligned}
-\frac{dx}{dt} &= \sigma (y - x) \\
-\frac{dy}{dt} &= x (\rho - z) - y \\
+\frac{dx}{dt} &= \sigma (y - x) \\ \\
+\frac{dy}{dt} &= x (\rho - z) - y \\ \\
 \frac{dz}{dt} &= x y - \beta z
 \end{aligned}
 $$
