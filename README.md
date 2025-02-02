@@ -6,6 +6,7 @@ Overview
 
 The Lorenz system is famous for its chaotic solutions, which are highly sensitive to initial conditions. The system's equations are as follows:
 
+$$
 \[
 \frac{dx}{dt} = \sigma (y - x)
 \]
@@ -15,6 +16,7 @@ The Lorenz system is famous for its chaotic solutions, which are highly sensitiv
 \[
 \frac{dz}{dt} = x y - \beta z
 \]
+§§
 
 Where:
 
