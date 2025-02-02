@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
-from mpl_toolkits.mplot3d import Axes3D
 
 def lorenz(t, y, sigma, rho, beta):
     """Lorenz system of differential equations."""
@@ -35,5 +34,4 @@ def plot_lorenz(sigma=10, rho=28, beta=8/3, t_end=100, num_points=10000):
 
     plt.show()
 
-# Example usage
 plot_lorenz()
