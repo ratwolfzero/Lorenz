@@ -3,10 +3,7 @@
 ![DLA](lorenz.png)
 
 
-The Lorenz system was first introduced by Edward Lorenz, an American mathematician and meteorologist, in 1963. Lorenz was studying weather patterns and atmospheric convection when he stumbled upon what would later be recognized as one of the earliest and most famous examples of chaotic systems. His work not only revolutionized weather forecasting but also played a pivotal role in the development of chaos theory.  
-
-Overview  
-This project implements a mathematical model known as the Lorenz system, a set of three coupled, first-order, nonlinear differential equations originally developed to model atmospheric convection. The system is famous for producing chaotic solutions that are highly sensitive to initial conditions, a concept often referred to as the "butterfly effect." Small changes in initial conditions can lead to vastly different outcomes, making long-term prediction impossible in practical terms.  
+The Lorenz system, introduced by Edward Lorenz in 1963, is a set of three nonlinear differential equations originally developed to model atmospheric convection. It is one of the earliest known chaotic systems, demonstrating extreme sensitivity to initial conditions—an idea popularized as the butterfly effect. Small changes in input lead to vastly different outcomes, making long-term predictions impractical. This project implements the Lorenz system to explore its chaotic behavior.
 
 The system's equations are as follows:
 
