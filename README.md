@@ -9,6 +9,7 @@ The Lorenz system, introduced by Edward Lorenz in 1963, is a set of three nonlin
 The system's equations are as follows:
 
 $$
+\large
 \begin{aligned}
 \frac{dx}{dt} &= \sigma (y - x) \\
 \\
@@ -16,6 +17,7 @@ $$
 \\
 \frac{dz}{dt} &= x y - \beta z
 \end{aligned}
+\large
 $$
 
 Where:
